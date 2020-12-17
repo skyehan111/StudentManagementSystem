@@ -1,0 +1,15 @@
+#LoginTable{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -100%);
+}
+.word{
+    font-size: 150%;
+    text-align: center;
+}
+.link{
+    margin: 50px;
+    font-size: 120%;
+    text-align: center;
+}
